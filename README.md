@@ -5,6 +5,7 @@
     pandas
     scikit-learn
     seaborn
+# The model is built using LogisticRegression
 # The model was cross validated using GridSearchCV and RandomizedSearchCV
 # After which appropriate classifier and solver(liblinear) used to obtain accuracy of 90%
   
